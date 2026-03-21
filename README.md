@@ -25,7 +25,7 @@ moritz@matrix:~$
 🧠  Neural Mode: ACTIVE  
 ⚙️  Runtime: GameDev / Automation / Code Engineering  
 🕹️  Process: Unity | Godot | Python | Node  
-📡  Connection: Discord [.norphy]
+📡  Connection: Discord
 🧩  Personality Core: Calm | Precise | Curious
 ```
 

@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3500&pause=500&color=00FF88&center=true&vCenter=true&width=480&lines=Initializing+NorphyOS...;Loading+Modules...;Calibrating+Neural+Link...;Access+Granted.;Welcome+Back,+Operator." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3500&pause=500&color=00FF88&center=true&vCenter=true&width=480&lines=Initializing+Moritz Selz...;Loading+Modules...;Calibrating+Neural+Link...;Access+Granted.;Welcome+Back,+Operator." />
 </p>
 
 ---

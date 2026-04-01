@@ -5,7 +5,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=52F736&width=405&lines=Moritz+Selz;Moritz+Selz" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=52F736&width=435&lines=Moritz+Selz;Moritz+Selz" 
     style="display: block; margin: auto;"
   />
 </p>

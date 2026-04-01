@@ -66,7 +66,7 @@ moritz@github:~$
 ```
 
 ```txt
-📁 multi-auto-clicker    → Background Automation Engine  
+📁 YT Downloader    → Downloader for YoutTube Videos
 📁 mikroskop-app          → Visual / Imaging System  
 📁 system-labs/CSH_JAVA_PHP → Experimental Code Frameworks  
 ```

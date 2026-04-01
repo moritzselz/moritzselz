@@ -33,7 +33,7 @@ moritz@github:~$
 ```txt
 🧠  Neural Mode: ACTIVE  
 ⚙️  Runtime: GameDev / Automation / Code Engineering  
-🕹️  Process: Unity | Godot | Python | Node  
+🕹️  Process: Unity | Python | Node  
 📡  Connection: Discord
 🧩  Personality Core: Calm | Precise | Curious
 ```

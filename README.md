@@ -26,7 +26,7 @@
 
 ```bash
 > whoami
-moritz@matrix:~$
+moritz@github:~$
 > systemctl status developer-mode.service
 ````
 
